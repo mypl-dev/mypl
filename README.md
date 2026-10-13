@@ -90,7 +90,6 @@ Early development. Current focus: Lexer + keyword tables.
 ## License
 
 Apache-2.0
-Apache-2.0
 
 Mypl — 用母语，写世界。
 
