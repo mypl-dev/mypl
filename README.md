@@ -72,8 +72,8 @@ Early development. Current focus: Lexer + keyword tables.
 ## 许可证
 ## License
 
-待定。
-TBD.
+Apache-2.0
+Apache-2.0
 
 Mypl — 用母语，写世界。
 Mypl — Write the world in your mother tongue.
